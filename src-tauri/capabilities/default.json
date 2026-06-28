@@ -1,0 +1,16 @@
+{
+  "$schema": "../gen/schemas/desktop-schema.json",
+  "identifier": "default",
+  "description": "메인 창과 영역 선택 오버레이 창의 권한",
+  "windows": ["main", "overlay-*"],
+  "permissions": [
+    "core:default",
+    "core:window:default",
+    "core:webview:default",
+    "core:event:default",
+    "clipboard-manager:default",
+    "dialog:default",
+    "global-shortcut:default",
+    "autostart:default"
+  ]
+}
