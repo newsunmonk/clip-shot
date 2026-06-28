@@ -6,7 +6,7 @@
 
 - 한 줄 설명: 캡처 즉시 클립보드 복사 + 최근 30개 자동 히스토리. 영역/창/디스플레이/모든 디스플레이 캡처를 지원하는 가벼운 Windows·macOS 유틸리티.
 - 플랫폼: Tauri 2(Rust 코어 + SvelteKit 웹 UI) 데스크탑. macOS / Windows.
-- 제품 이름: `ClipShot`(표시 이름 한국어 "클립샷"), 번들 ID `com.heung.clip-shot`.
+- 제품 이름: `ClipShot`(표시 이름 한국어 "클립샷"), 번들 ID `com.newsunmonk.clip-shot`.
 - 범위: **이미지 캡처만**(영상 녹화 제외). 저장은 **클립보드 + 히스토리 중심**(지정 폴더 자동 저장 없음, 히스토리에서 수동 내보내기).
 
 ## 기술 스택과 구조

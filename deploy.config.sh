@@ -3,7 +3,7 @@
 
 export APP_DISPLAY_NAME="클립샷"
 export APP_PRODUCT_NAME="ClipShot"
-export APP_BUNDLE_ID="com.heung.clip-shot"   # 출시 전 본인 reverse-DNS로 교체 권장
+export APP_BUNDLE_ID="com.newsunmonk.clip-shot"
 
 # ── 빌드(각 OS에서 실행) ──
 #   cd utilities/clip-shot && ./packaging/build.sh
